@@ -7,20 +7,20 @@ and PostgreSQL, along with REST API design and database relationships.
 
 FEATURES :
 
-Add movies to the platform .
-Users can request/vote for a movie re-release .
-Tracks total request count per movie .
-Prevents duplicate votes from the same user .
-Automatically approves movies after reaching a vote threshold .
-Admin endpoints to approve or reject movie requests .
-RESTful API architecture .
+Add movies to the platform ,
+Users can request/vote for a movie re-release ,
+Tracks total request count per movie ,
+Prevents duplicate votes from the same user ,
+Automatically approves movies after reaching a vote threshold ,
+Admin endpoints to approve or reject movie requests ,
+RESTful API architecture ,
 
 TECH STACK :
 
-Java
-Spring Boot
-Spring Data JPA
-Hibernate
-PostgreSQL
-Maven
-Postman (API testing)
+Java ,
+Spring Boot ,
+Spring Data JPA ,
+Hibernate ,
+PostgreSQL ,
+Maven ,
+Postman (API testing) .
